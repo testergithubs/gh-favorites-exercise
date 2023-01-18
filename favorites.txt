@@ -1,3 +1,13 @@
+=======
+FOODS
+=======
 Paneer Butter Masala
 Chicken Tandoori
 Chicken Popcorns
+
+=======
+MOVIES
+=======
+The Secret World of Arrietty (2010)
+Pom Poko (1994)
+Grave of the Fireflies (1988)
